@@ -4,9 +4,15 @@ Terminator-Color-Schemes
 This project is based on [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 I only have ported the xrdb files with [this script](tools/xrdb2terminator.py), [all the credits are for those people](https://github.com/mbadolato/iTerm2-Color-Schemes#credits)
 
+Themes
+------
 
-Give me the themes!
--------------------
+Browse the themes [here](https://github.com/mbadolato/iTerm2-Color-Schemes)
+once you decided which one is the one that combines with your eyes colour :D continue to the next section
+
+
+How to set up the theme
+-----------------------
 
 The terminator configuration file is in: `$HOME/.config/terminator/config`.
 You need to edit this file
