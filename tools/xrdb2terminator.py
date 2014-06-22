@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# This script converts xrdg (X11) color scheme format to terminator color
+# This script converts xrdb (X11) color scheme format to terminator color
 # scheme format
 #
 # Author: Xabier Larrakoetxea
